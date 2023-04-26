@@ -1,4 +1,10 @@
-### Hi there 👋
+# SIM JAE UN:smirk:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejae990921&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejae990921&layout=compact)](https://github.com/jaejae990921/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaejae990921)](https://solved.ac/jaejae990921/)
 
 <!--
 **jaejae990921/jaejae990921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
